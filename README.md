@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Joshow232
-- 👀 I’m interested in 3D printing, software ddevelopment, 4WD & camping
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in 3D printing, software development, 4WD & camping
+- 🌱 I’m currently learning C++ in a Linux only environment
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: You can't detect wetness as our bodies don't have receptors specifically for detecting liquids, our body rely on temperature and touch to detect wetness.
+- ⚡ Fun fact: You can't detect wetness as our bodies don't have receptors specifically for detecting liquids, our body relies on temperature and touch to detect wetness among other things.
 
 <!---
 - 💞️ I’m looking to collaborate on ...
